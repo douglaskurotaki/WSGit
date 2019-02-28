@@ -7,10 +7,11 @@ Pode-se armazenar pelo próprio **GitHub**!
 ---
 
 # Criando repositório *remote*
-Podemos criar o repositório sem arqui
+Podemos criar o repositório sem arquivo nenhum (license or gitignore). Assim, teremos que referenciar na máquina local o endereço do repositório:
+**git remote add origin**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2MzgzNjk4LC00MjkzMDQ0NTYsMjA0MD
-I5NzYyMl19
+eyJoaXN0b3J5IjpbMTYyMTU5MjIyMywtNDI5MzA0NDU2LDIwND
+AyOTc2MjJdfQ==
 -->
