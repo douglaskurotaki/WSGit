@@ -10,12 +10,14 @@ Pode-se armazenar pelo próprio **GitHub**!
 Podemos criar o repositório sem arquivo nenhum (license or gitignore). Assim, teremos que referenciar na máquina local o endereço do repositório:
 `git remote add origin <endereço>`
 
+**Para mostrar o endereço exato:**
+``
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Mzc0NjkyMCwtNDI5MzA0NDU2LDIwND
-AyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE1NDU0NDI3NDMsMTg4Mzc0NjkyMCwtND
+I5MzA0NDU2LDIwNDAyOTc2MjJdfQ==
 -->
