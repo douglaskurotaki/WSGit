@@ -11,10 +11,10 @@ Podemos criar o repositório sem arquivo nenhum (license or gitignore). Assim, t
 `git remote add origin <endereço>`
 
 **Para mostrar o endereço exato:**
-```git 
+```
 git remote -v
-	> origin  <> (fetch)
-origin  git@github.com:douglaskurotaki/TWoutro-repositorio.git (push)
+	> origin <endereço> (fetch)
+	  origin <endereço> (push)
 ```
 
 
@@ -23,6 +23,6 @@ origin  git@github.com:douglaskurotaki/TWoutro-repositorio.git (push)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzkzMTM0ODIsMTg4Mzc0NjkyMCwtND
+eyJoaXN0b3J5IjpbLTEzNzYzNDUyNzgsMTg4Mzc0NjkyMCwtND
 I5MzA0NDU2LDIwNDAyOTc2MjJdfQ==
 -->
