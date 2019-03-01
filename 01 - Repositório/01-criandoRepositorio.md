@@ -19,13 +19,12 @@ git remote -v
 **Para sincronizar com GitHub:**
 `git push origin -u origin master
 
-```markdown
-    # foo
-```
+
+ ###   bar    ###
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTU3NTE0NiwzNDgzOTA4NDgsMzYzOT
-IzODUwLDE4ODM3NDY5MjAsLTQyOTMwNDQ1NiwyMDQwMjk3NjIy
-XX0=
+eyJoaXN0b3J5IjpbLTIwMzA2MTYzMzEsMzQ4MzkwODQ4LDM2Mz
+kyMzg1MCwxODgzNzQ2OTIwLC00MjkzMDQ0NTYsMjA0MDI5NzYy
+Ml19
 -->
