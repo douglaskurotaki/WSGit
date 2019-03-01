@@ -11,14 +11,16 @@ Podemos criar o repositório sem arquivo nenhum (license or gitignore). Assim, t
 `git remote add origin <endereço>`
 
 **Para mostrar o endereço exato:**
-
 ```git
 git remote -v
 	> origin <endereço> (fetch)
 	  origin <endereço> (push)
 ```
+**Para sincronizar com GitHub:**
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY2NDkyMzQsMzYzOTIzODUwLDE4OD
+eyJoaXN0b3J5IjpbLTE0MzAzMTkyOTAsMzYzOTIzODUwLDE4OD
 M3NDY5MjAsLTQyOTMwNDQ1NiwyMDQwMjk3NjIyXX0=
 -->
