@@ -17,14 +17,15 @@ git remote -v
 	  origin <endereço> (push)
 ```
 **Para sincronizar com GitHub:**
-`git push origin -u origin master
+`git push origin -u origin master`
 
 
- ###   bar    ###
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA2MTYzMzEsMzQ4MzkwODQ4LDM2Mz
-kyMzg1MCwxODgzNzQ2OTIwLC00MjkzMDQ0NTYsMjA0MDI5NzYy
-Ml19
+eyJoaXN0b3J5IjpbLTU1NzExOTQ1MiwzNDgzOTA4NDgsMzYzOT
+IzODUwLDE4ODM3NDY5MjAsLTQyOTMwNDQ1NiwyMDQwMjk3NjIy
+XX0=
 -->
