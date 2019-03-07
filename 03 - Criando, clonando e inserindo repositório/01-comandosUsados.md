@@ -1,10 +1,8 @@
-  
+**git status**  - Mostra os arquivo dentro do *Working Directory*
 
-git status
+**git status -s** - Mostra arquivos **com menos detalhes** 
 
-git status -s
-
-git add .
+git add . - Adiciona os a
 
 git add -A
 
@@ -18,5 +16,5 @@ git pull origin
 
 git fetch origin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM3MDY1ODJdfQ==
+eyJoaXN0b3J5IjpbLTEwMDYwNDQyNDddfQ==
 -->
