@@ -2,19 +2,16 @@
 
 **git status -s** - Mostra arquivos **com menos detalhes** 
 
-git add . - Adiciona os a
+git add . - Adiciona os arquivos alterados para o *Staging Area*
+git add -A - Faz a Mesma coisa!
 
-git add -A
+git commit -m "First Commit" - Adiciona para o repositório local 
 
-git commit -a
+git push origin master - Adiciona para o repositório remoto
 
-git commit -m "First Commit"
+git pull origin - Puxa todos os arquivos alterados do repositório remoto
 
-git push origin master
-
-git pull origin
-
-git fetch origin
+git fetch origin - Cr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDYwNDQyNDddfQ==
+eyJoaXN0b3J5IjpbLTc2NTk1NDAzOV19
 -->
