@@ -9,7 +9,6 @@
 ### Essas são as possibiliades entre Working Directory e Staged Area
 ![Imagem1](https://d2v0x26thbzlwf.cloudfront.net/prod/190/img/rId6n7ia1810.jh7.png)
 
----
 
 
 
@@ -20,7 +19,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk1OTQ5MTAsLTkwODY3OTE0NiwxMz
-YyMjEyODgxLDEzNjIyMTI4ODEsLTc2MDA5NTA4Niw0Njk5OTUw
-MTgsLTYxMzEyNzM4NiwxMTgzNzM0MTIyXX0=
+eyJoaXN0b3J5IjpbMTY4NTA0OTkwNywtMTc5OTU5NDkxMCwtOT
+A4Njc5MTQ2LDEzNjIyMTI4ODEsMTM2MjIxMjg4MSwtNzYwMDk1
+MDg2LDQ2OTk5NTAxOCwtNjEzMTI3Mzg2LDExODM3MzQxMjJdfQ
+==
 -->
