@@ -3,6 +3,7 @@ Para criar um arquivo **.gitignore** deve usar, criar manualmente no **repositó
 Desse modo, eles não iram ser vinculados ao repositório mesmo estando no mesmo diretório.
 
 ### Se utilizar o Alias que retorna dados da API do site gitinore.io, utilizar esses comandos:
+
 `gi <linguagem, tecnologia> >> .gitignore`
 
 **Exemplo:**
@@ -35,5 +36,5 @@ Ignora os arquivos **txt** do diretório que indicar:
 Ignora todos os **.pdf** na árvore **doc/** 
 `doc/**/*.pdf`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDI4NzIyMV19
+eyJoaXN0b3J5IjpbMTc0MjYxNjAzXX0=
 -->
