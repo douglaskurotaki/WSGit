@@ -18,8 +18,18 @@ ou
 **Para criar uma branch no repositório remoto (GitHub):**
 `git push --set-upstream origin <nomeBranch>`
  
- **Para deletar uma branch:
+ **Para deletar uma branch:**
+ Antes, lembrar de voltar a uma branch existente.
+ `git branch --d <nomeBranch>`
+`git push --de`
+
+
+**Atalho:**
+Voltando a uma branch anterior:
+`git checkout -`
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTQ3OTg5Myw3MzAxNTU2MzIsLTQ3NT
+eyJoaXN0b3J5IjpbMTI5NTA0MTAyNCw3MzAxNTU2MzIsLTQ3NT
 I4NzgyNywxMzQ1NTAxNzJdfQ==
 -->
