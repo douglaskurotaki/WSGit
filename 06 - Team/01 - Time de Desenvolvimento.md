@@ -4,7 +4,7 @@
 - **Bug Hunter** - Colaborador para **encontrar bugs** no sistemas e **apontar o commit reponsável**
 - **Package Builder** - Ação de **minificar o código** para deixar mais leve, assim, garantindo mais rapidez. 
 - **Deployer** - Responsável por preparar o **ambiente** de produção.
-- **Integrador** - 
+- **Integrador** - **Fiscalizador** dos commits feitos antes de dar os **merges**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODU3NzkzN119
+eyJoaXN0b3J5IjpbNDg3NDU1MjI2XX0=
 -->
