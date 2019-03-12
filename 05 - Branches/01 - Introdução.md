@@ -15,7 +15,11 @@ ou
 **Para utilizar uma outra branch:**
 `git checkout <nomeBranch>`
 
+**Para criar uma branch no repositório remoto (GitHub):**
+`git push --set-upstream origin <nomeBranch>`
+ 
+ **Para deletar uma branch:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMTU1NjMyLC00NzUyODc4MjcsMTM0NT
-UwMTcyXX0=
+eyJoaXN0b3J5IjpbLTg1NTQ3OTg5Myw3MzAxNTU2MzIsLTQ3NT
+I4NzgyNywxMzQ1NTAxNzJdfQ==
 -->
