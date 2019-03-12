@@ -20,7 +20,7 @@ ou
  
  **Para deletar uma branch:**
  Antes, lembrar de voltar a uma branch existente.
- `git branch --d <nomeBranch>`
+ `git branch --d <nome 	Branch>`
 `git push --delete origin <nomeBranch>`
 
 **Atalho:**
@@ -29,6 +29,6 @@ Voltando a uma branch anterior:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1OTU2MTMsNzMwMTU1NjMyLC00NzUyOD
-c4MjcsMTM0NTUwMTcyXX0=
+eyJoaXN0b3J5IjpbMTU4MDA2MzQ4NSw3MzAxNTU2MzIsLTQ3NT
+I4NzgyNywxMzQ1NTAxNzJdfQ==
 -->
