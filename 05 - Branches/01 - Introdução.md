@@ -5,9 +5,11 @@ Elas são geradas através de uma hierarquia, onde a cada criação de uma, surg
 
 ![Essa é uma ramificação representando a Branch](https://d2v0x26thbzlwf.cloudfront.net/prod/190/img/rId1250rghj58.pqt.png)
 As Branches são muito uteis para separar o desenvolvimento de um grupo de pessoas, assim evitando algum corrompimento de arquivos. 
-Alteração de uma pessoa não acarreta em outra.
+### Alteração de uma pessoa não acarreta em outra, se utilizar branch.
+
+Comandos:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDM4NTQ0NTIsLTQ3NTI4NzgyNywxMz
-Q1NTAxNzJdfQ==
+eyJoaXN0b3J5IjpbMzU1NTgzMTA1LC00NzUyODc4MjcsMTM0NT
+UwMTcyXX0=
 -->
