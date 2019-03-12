@@ -7,6 +7,7 @@ Se usa o seguinte código:
 **Fast Forward** - Move a referencia da branch trabalhada com o **HEAD** da branch a ser combinada gerando um histórico de commits **linear**.
 ![Commit Linear](https://d2v0x26thbzlwf.cloudfront.net/prod/190/img/rId14km5kv44u.ktl.png)
 
+**3-Way Merge** - Quando há novos commits que não f
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjkwNDI5Ml19
+eyJoaXN0b3J5IjpbMTcyMzE1ODAwNV19
 -->
