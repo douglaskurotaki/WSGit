@@ -7,9 +7,15 @@ Elas são geradas através de uma hierarquia, onde a cada criação de uma, surg
 As Branches são muito uteis para separar o desenvolvimento de um grupo de pessoas, assim evitando algum corrompimento de arquivos. 
 ### Alteração de uma pessoa não acarreta em outra, se utilizar branch.
 
-Comandos:
+###  Comandos:
+`git branch <nomeBranch>`
+ou
+`git checkout -b <nomeBranch>` 
+
+**Para utilizar uma outra branch:**
+`git checkot `
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1NTgzMTA1LC00NzUyODc4MjcsMTM0NT
-UwMTcyXX0=
+eyJoaXN0b3J5IjpbLTg3NTk2NjU3MiwtNDc1Mjg3ODI3LDEzND
+U1MDE3Ml19
 -->
