@@ -22,12 +22,18 @@ Vale lembrar que **merges** do tipo **fast-forward** não cria um commit, soment
 **Para utilizar o rebase**:
 `git rebase <nomeBranch>`
 
+
+### Rebase Interativo
+Além de podermos fazer *merge* com o rebase, existe a possibilidade de alterar os log dos commits para conseguirmos ter uma visualização mais coerente do que foi *commitado*
+No caso,se tudo foi 
+
+
 ### Conflitos
 No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual só seria solucionado manualmente. A pessoa que é responsável deverá escolher qual o correto e commitar. 
 Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDg1MTI4MDgsODg4OTgzNDAyLC0xMD
-Q0MTgyMjkzLDM3Njc1NzIwMCwxOTcyOTc1OTExLDE2NTU1MDkx
-NzFdfQ==
+eyJoaXN0b3J5IjpbODUwOTMzNTU2LC0xMTQ4NTEyODA4LDg4OD
+k4MzQwMiwtMTA0NDE4MjI5MywzNzY3NTcyMDAsMTk3Mjk3NTkx
+MSwxNjU1NTA5MTcxXX0=
 -->
