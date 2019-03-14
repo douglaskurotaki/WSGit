@@ -64,13 +64,14 @@ Atualiza o README.
 #       modified:   README.md
 #
 ```
+Nesse caso, para alterar o nome do *commit* precisamos comentar os que já existem ou então apagar e incluir um novo sem comentário!
 
 ### Conflitos
 No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual só seria solucionado manualmente. A pessoa que é responsável deverá escolher qual o correto e commitar. 
 Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4MTI2MDE0LDk2MzY2NDE2NSwtMTE0OD
-UxMjgwOCw4ODg5ODM0MDIsLTEwNDQxODIyOTMsMzc2NzU3MjAw
-LDE5NzI5NzU5MTEsMTY1NTUwOTE3MV19
+eyJoaXN0b3J5IjpbMTY1MDc4ODY4OCw5NjM2NjQxNjUsLTExND
+g1MTI4MDgsODg4OTgzNDAyLC0xMDQ0MTgyMjkzLDM3Njc1NzIw
+MCwxOTcyOTc1OTExLDE2NTU1MDkxNzFdfQ==
 -->
