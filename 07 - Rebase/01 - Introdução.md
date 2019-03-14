@@ -25,7 +25,12 @@ Vale lembrar que **merges** do tipo **fast-forward** não cria um commit, soment
 
 ### Rebase Interativo
 Além de podermos fazer *merge* com o rebase, existe a possibilidade de alterar os log dos commits para conseguirmos ter uma visualização mais coerente do que foi *commitado*
-No caso,se tudo foi 
+No caso,se tudo foi *mergeado* e não há nenhuma alteração a mais a se fazer, podemos usar um comando:
+`git rebase -i HEAD~<número de quantos commits do maior para o menor>`
+No caso:
+`git rebase -i HEAD~3`
+Irá retornar 3 *logs* de *commits*
+
 
 
 ### Conflitos
@@ -33,7 +38,7 @@ No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual s�
 Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwOTMzNTU2LC0xMTQ4NTEyODA4LDg4OD
+eyJoaXN0b3J5IjpbOTYzNjY0MTY1LC0xMTQ4NTEyODA4LDg4OD
 k4MzQwMiwtMTA0NDE4MjI5MywzNzY3NTcyMDAsMTk3Mjk3NTkx
 MSwxNjU1NTA5MTcxXX0=
 -->
