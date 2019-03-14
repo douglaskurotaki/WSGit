@@ -15,13 +15,13 @@ Ficaria assim:
 ![Merge](https://static.concrete.com.br/uploads/2017/08/image5-768x515.png)
 Toda vez que é feito um *merge*, é criado um commit **irrelevante**. Isso pode trazer confusão no **histórico** de *commits*.
 Para evitar esse commit *a mais*, podemos usar o **rebase**, que são parecidos, mas seus processos a chegar ao resultado são diferentes. 
-O **merge** verifica todos os commits realizados 
+O **merge** verifica todos os commits realizados por cima, mescla com a **branch** que será juntada e assim faz um **commit** automático.
 
 ### Conflitos
 No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual só seria solucionado manualmente. A pessoa que é responsável deverá escolher qual o correto e commitar. 
 Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzMzNjY1ODQsLTEwNDQxODIyOTMsMz
+eyJoaXN0b3J5IjpbLTE1MzMxOTA1MTEsLTEwNDQxODIyOTMsMz
 c2NzU3MjAwLDE5NzI5NzU5MTEsMTY1NTUwOTE3MV19
 -->
