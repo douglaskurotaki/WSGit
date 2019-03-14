@@ -31,7 +31,7 @@ No caso:
 `git rebase -i HEAD~3`
 Irá retornar 3 *logs* de *commits*
 **Essa é uma lista que podemos utilizar nessa parte:**
-```git
+
 ```bash
 # Commands:
 #  p, pick = use commit
@@ -41,15 +41,13 @@ Irá retornar 3 *logs* de *commits*
 #  f, fixup = like "squash", but discard this commit's log message
 #  x, exec = run command (the rest of the line) using shell
 ```
-```
-
 
 ### Conflitos
 No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual só seria solucionado manualmente. A pessoa que é responsável deverá escolher qual o correto e commitar. 
 Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTMwNDM4NCw5NjM2NjQxNjUsLTExND
-g1MTI4MDgsODg4OTgzNDAyLC0xMDQ0MTgyMjkzLDM3Njc1NzIw
-MCwxOTcyOTc1OTExLDE2NTU1MDkxNzFdfQ==
+eyJoaXN0b3J5IjpbNTU2MDU4OTA0LDk2MzY2NDE2NSwtMTE0OD
+UxMjgwOCw4ODg5ODM0MDIsLTEwNDQxODIyOTMsMzc2NzU3MjAw
+LDE5NzI5NzU5MTEsMTY1NTUwOTE3MV19
 -->
