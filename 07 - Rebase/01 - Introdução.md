@@ -43,7 +43,7 @@ Irá retornar 3 *logs* de *commits*
 ```
 
 **Para renomear nome do commit:**
-```ru
+```bash
 pick 9afe987 Ajustes de CSS e JS no slideshow.
 pick 74e6f3e Mais ajustes de CSS e JS no slideshow.
 reword 1ee9572 Atualiza o README.
@@ -54,7 +54,7 @@ No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual s�
 Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTIzMzk3OSw5NjM2NjQxNjUsLTExND
-g1MTI4MDgsODg4OTgzNDAyLC0xMDQ0MTgyMjkzLDM3Njc1NzIw
-MCwxOTcyOTc1OTExLDE2NTU1MDkxNzFdfQ==
+eyJoaXN0b3J5IjpbLTExMTQ5MzcxMzAsOTYzNjY0MTY1LC0xMT
+Q4NTEyODA4LDg4ODk4MzQwMiwtMTA0NDE4MjI5MywzNzY3NTcy
+MDAsMTk3Mjk3NTkxMSwxNjU1NTA5MTcxXX0=
 -->
