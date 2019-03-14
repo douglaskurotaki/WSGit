@@ -17,13 +17,15 @@ Toda vez que é feito um *merge*, é criado um commit **irrelevante**. Isso pode
 Para evitar esse commit *a mais*, podemos usar o **rebase**, que são parecidos, mas seus processos a chegar ao resultado são diferentes. 
 O **merge** verifica todos os commits realizados por cima, mescla com a **branch** que será juntada e assim faz um **commit automático.** 
 O **rebase** em si não faz esse commit, pelo fato de ele analisar por **baixo** primeiro. Assim, ele reconhece os commits que deve ser mesclado e coloca após a última alteração antes de mesclar.
-Vale lembrar que
+Vale lembrar que **merges** do tipo **fast-forward** não cria um commit, somente quando é **3-way marge**.
+**Para utilizar o rebase**:
+git
 
 ### Conflitos
 No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual só seria solucionado manualmente. A pessoa que é responsável deverá escolher qual o correto e commitar. 
 Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3NzAwNzksLTEwNDQxODIyOTMsMzc2Nz
-U3MjAwLDE5NzI5NzU5MTEsMTY1NTUwOTE3MV19
+eyJoaXN0b3J5IjpbLTYyNDk0MzI5MywtMTA0NDE4MjI5MywzNz
+Y3NTcyMDAsMTk3Mjk3NTkxMSwxNjU1NTA5MTcxXX0=
 -->
