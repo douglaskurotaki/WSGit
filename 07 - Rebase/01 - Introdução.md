@@ -13,8 +13,8 @@ Se estou utilizando uma *branch feature* num time de desenvolvimento e um integr
 No caso, por mais simplicidade, usamos o merge para **unir** as duas branches além de não ser destrutiva, ele também não **alteara** commits já realizados
 Ficaria assim:
 ![Merge](https://static.concrete.com.br/uploads/2017/08/image5-768x515.png)
-Toda vez que é feito um *merge*, é criado um commit **irrelevante**. Isso pode trazer confusão no **histórico** de 
+Toda vez que é feito um *merge*, é criado um commit **irrelevante**. Isso pode trazer confusão no **histórico** de *commits*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTAyNTkzMjIsMTk3Mjk3NTkxMSwxNj
-U1NTA5MTcxXX0=
+eyJoaXN0b3J5IjpbMzc2NzU3MjAwLDE5NzI5NzU5MTEsMTY1NT
+UwOTE3MV19
 -->
