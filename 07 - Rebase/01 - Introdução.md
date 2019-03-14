@@ -48,13 +48,29 @@ pick 9afe987 Ajustes de CSS e JS no slideshow.
 pick 74e6f3e Mais ajustes de CSS e JS no slideshow.
 reword 1ee9572 Atualiza o README.
 ```
+Após isso irá algo como isso:
+```bash
+Atualiza o README.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Mon Dec 15 19:09:30 2014 -0200
+#
+# rebase in progress; onto 5644bdd
+# You are currently editing a commit while rebasing branch 'develop' on '5644bdd'.
+#
+# Changes to be committed:
+#       modified:   README.md
+#
+```
 
 ### Conflitos
 No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual só seria solucionado manualmente. A pessoa que é responsável deverá escolher qual o correto e commitar. 
 Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ5MzcxMzAsOTYzNjY0MTY1LC0xMT
-Q4NTEyODA4LDg4ODk4MzQwMiwtMTA0NDE4MjI5MywzNzY3NTcy
-MDAsMTk3Mjk3NTkxMSwxNjU1NTA5MTcxXX0=
+eyJoaXN0b3J5IjpbNjA4MTI2MDE0LDk2MzY2NDE2NSwtMTE0OD
+UxMjgwOCw4ODg5ODM0MDIsLTEwNDQxODIyOTMsMzc2NzU3MjAw
+LDE5NzI5NzU5MTEsMTY1NTUwOTE3MV19
 -->
