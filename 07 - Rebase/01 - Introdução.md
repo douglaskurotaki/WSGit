@@ -14,12 +14,13 @@ No caso, por mais simplicidade, usamos o merge para **unir** as duas branches al
 Ficaria assim:
 ![Merge](https://static.concrete.com.br/uploads/2017/08/image5-768x515.png)
 Toda vez que é feito um *merge*, é criado um commit **irrelevante**. Isso pode trazer confusão no **histórico** de *commits*.
+Para evitar esse commit *a mais*, podemos usar o **rebase**, que são parecidos, mas suas funcionali
 
 ### Conflitos
 No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual só seria solucionado manualmente. A pessoa que é responsável deverá escolher qual o correto e commitar. 
 Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQxODIyOTMsMzc2NzU3MjAwLDE5Nz
-I5NzU5MTEsMTY1NTUwOTE3MV19
+eyJoaXN0b3J5IjpbLTE1MjkyNTUzODYsLTEwNDQxODIyOTMsMz
+c2NzU3MjAwLDE5NzI5NzU5MTEsMTY1NTUwOTE3MV19
 -->
