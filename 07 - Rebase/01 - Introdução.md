@@ -30,7 +30,18 @@ No caso,se tudo foi *mergeado* e não há nenhuma alteração a mais a se fazer,
 No caso:
 `git rebase -i HEAD~3`
 Irá retornar 3 *logs* de *commits*
-
+**Essa é uma lista que podemos utilizar nessa parte:**
+```git
+```bash
+# Commands:
+#  p, pick = use commit
+#  r, reword = use commit, but edit the commit message
+#  e, edit = use commit, but stop for amending
+#  s, squash = use commit, but meld into previous commit
+#  f, fixup = like "squash", but discard this commit's log message
+#  x, exec = run command (the rest of the line) using shell
+```
+```
 
 
 ### Conflitos
@@ -38,7 +49,7 @@ No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual s�
 Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzNjY0MTY1LC0xMTQ4NTEyODA4LDg4OD
-k4MzQwMiwtMTA0NDE4MjI5MywzNzY3NTcyMDAsMTk3Mjk3NTkx
-MSwxNjU1NTA5MTcxXX0=
+eyJoaXN0b3J5IjpbMTc4OTMwNDM4NCw5NjM2NjQxNjUsLTExND
+g1MTI4MDgsODg4OTgzNDAyLC0xMDQ0MTgyMjkzLDM3Njc1NzIw
+MCwxOTcyOTc1OTExLDE2NTU1MDkxNzFdfQ==
 -->
