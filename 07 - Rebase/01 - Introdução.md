@@ -5,7 +5,8 @@
 - **Descartando** alterações
 - **Alteração** da hierarquia de commits
 
-O 
+O *rebase*, em questão, é um método perigoso, mas com conhecimento profundo, pode ajudar bastante a **tratar os merges**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3NTYzNzQ2LDE2NTU1MDkxNzFdfQ==
+eyJoaXN0b3J5IjpbMTk3Mjk3NTkxMSwxNjU1NTA5MTcxXX0=
 -->
