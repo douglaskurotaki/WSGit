@@ -65,6 +65,8 @@ Atualiza o README.
 #
 ```
 Nesse caso, para alterar o nome do *commit* precisamos comentar os que já existem ou então apagar e incluir um novo sem comentário!
+Para dar o **push** tem com o **rebase -i** tem que usar o **--force**
+`git push origin master --force`
 
 ---
 
@@ -73,7 +75,7 @@ No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual s�
 Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTU2OTQ1NSw5NjM2NjQxNjUsLTExND
-g1MTI4MDgsODg4OTgzNDAyLC0xMDQ0MTgyMjkzLDM3Njc1NzIw
-MCwxOTcyOTc1OTExLDE2NTU1MDkxNzFdfQ==
+eyJoaXN0b3J5IjpbODIwMzIzNzY4LC03MzE1Njk0NTUsOTYzNj
+Y0MTY1LC0xMTQ4NTEyODA4LDg4ODk4MzQwMiwtMTA0NDE4MjI5
+MywzNzY3NTcyMDAsMTk3Mjk3NTkxMSwxNjU1NTA5MTcxXX0=
 -->
