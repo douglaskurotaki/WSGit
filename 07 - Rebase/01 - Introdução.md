@@ -9,8 +9,10 @@ O *rebase*, em questão, é um método perigoso, mas com conhecimento profundo, 
 
 --- 
 ## Exemplo:
-Se estou utilizando uma *branch feature* num time de desenvolvimento e um integrante atualiza a *branch master*, preci 
+Se estou utilizando uma *branch feature* num time de desenvolvimento e um integrante atualiza a *branch master*, precisamos, no caso, atualizar a branch que estou utilizando com o **merge** ou com **rebase**
+No caso, por mais simplicidade, usamos o merge para **unir** as duas branches 
+Ficaria m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4OTAyNzUxLDE5NzI5NzU5MTEsMTY1NT
-UwOTE3MV19
+eyJoaXN0b3J5IjpbMTY1NjcwMzg4NCwxOTcyOTc1OTExLDE2NT
+U1MDkxNzFdfQ==
 -->
