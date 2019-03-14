@@ -16,8 +16,8 @@ Ficaria assim:
 Toda vez que é feito um *merge*, é criado um commit **irrelevante**. Isso pode trazer confusão no **histórico** de *commits*.
 
 ### Conflitos
-No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual só ser
+No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual só seria solucionado manualmente. A pessoa que é responsável deverá escolher qual o correto e commitar. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjEyNTIzOCwzNzY3NTcyMDAsMTk3Mj
+eyJoaXN0b3J5IjpbLTc2ODUwNDA3OCwzNzY3NTcyMDAsMTk3Mj
 k3NTkxMSwxNjU1NTA5MTcxXX0=
 -->
