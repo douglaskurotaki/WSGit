@@ -19,13 +19,13 @@ O **merge** verifica todos os commits realizados por cima, mescla com a **branch
 O **rebase** em si não faz esse commit, pelo fato de ele analisar por **baixo** primeiro. Assim, ele reconhece os commits que deve ser mesclado e coloca após a última alteração antes de mesclar.
 Vale lembrar que **merges** do tipo **fast-forward** não cria um commit, somente quando é **3-way marge**.
 **Para utilizar o rebase**:
-git
+`git rebase <nomeBranch>`
 
 ### Conflitos
 No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual só seria solucionado manualmente. A pessoa que é responsável deverá escolher qual o correto e commitar. 
 Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDk0MzI5MywtMTA0NDE4MjI5MywzNz
-Y3NTcyMDAsMTk3Mjk3NTkxMSwxNjU1NTA5MTcxXX0=
+eyJoaXN0b3J5IjpbODg4OTgzNDAyLC0xMDQ0MTgyMjkzLDM3Nj
+c1NzIwMCwxOTcyOTc1OTExLDE2NTU1MDkxNzFdfQ==
 -->
