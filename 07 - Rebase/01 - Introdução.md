@@ -17,7 +17,9 @@ Toda vez que é feito um *merge*, é criado um commit **irrelevante**. Isso pode
 
 ### Conflitos
 No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual só seria solucionado manualmente. A pessoa que é responsável deverá escolher qual o correto e commitar. 
+Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODUwNDA3OCwzNzY3NTcyMDAsMTk3Mj
-k3NTkxMSwxNjU1NTA5MTcxXX0=
+eyJoaXN0b3J5IjpbLTEwNDQxODIyOTMsMzc2NzU3MjAwLDE5Nz
+I5NzU5MTEsMTY1NTUwOTE3MV19
 -->
