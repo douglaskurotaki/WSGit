@@ -3,7 +3,9 @@
 - Alteração de **mensagens**
 - **Combinação** de commits
 - **Descartando** alterações
-- A
+- **Alteração** da hierarquia de commits
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjk1MDc3XX0=
+eyJoaXN0b3J5IjpbMTY1NTUwOTE3MV19
 -->
