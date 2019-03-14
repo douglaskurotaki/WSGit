@@ -14,7 +14,10 @@ No caso, por mais simplicidade, usamos o merge para **unir** as duas branches al
 Ficaria assim:
 ![Merge](https://static.concrete.com.br/uploads/2017/08/image5-768x515.png)
 Toda vez que é feito um *merge*, é criado um commit **irrelevante**. Isso pode trazer confusão no **histórico** de *commits*.
+
+### Conflitos
+No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual só ser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2NzU3MjAwLDE5NzI5NzU5MTEsMTY1NT
-UwOTE3MV19
+eyJoaXN0b3J5IjpbMTg5NjEyNTIzOCwzNzY3NTcyMDAsMTk3Mj
+k3NTkxMSwxNjU1NTA5MTcxXX0=
 -->
