@@ -17,8 +17,9 @@ Essa é usada apenas para caso o integrante seja único.
 
 ## GitHub Flow
 
-**Uso de Branches temporárias** 
+Uso de branches **temporárias** afim de combina-las.
+Para dar os *merges*, no próprio *GitHub* podemos das o **strong text**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjUyODA1MiwxMTczMTMxMjM3LDE4Mz
+eyJoaXN0b3J5IjpbMTcxNzMxMTcwMywxMTczMTMxMjM3LDE4Mz
 Q2MTk3NSwxNDY3NTM4NjA0LC0zMjYzNTM3MzhdfQ==
 -->
