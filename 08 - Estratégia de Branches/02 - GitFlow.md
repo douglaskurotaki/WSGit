@@ -5,8 +5,8 @@ Umas da primeiras organizações, é o uso de **nomenclaturas** para as *branche
 
  - **Branch Master** - Quando vemos essa *branch* temos que saber que ela é a mais **estável**. Desse modo, podemos concluir que é essa a de **produção**.
  - **Branch Develop** - É a junção das *features* finalizadas, ou seja, que estão preparadas para o próximo *deploy.
- - **Branch Feature/\*** - 
+ - **Branch Feature/\*** - São *branches* criados a partir da *branch develop*, pois a partir dela pode haver depend
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA3NDE4MTksLTM0MDM5NDczOF19
+eyJoaXN0b3J5IjpbMTIzMTI4MDk5NiwtMzQwMzk0NzM4XX0=
 -->
