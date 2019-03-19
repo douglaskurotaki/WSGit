@@ -8,9 +8,9 @@ Antes de mais nada, precisamos possuir um código de qualidade e testado para se
 **Estável** e **Atualizado**.
 Todas as *branches* são criadas a partir da *master*. 
 Cada desenvolvedor trabalha **paralelamente** com sua *branch*.
-No final é criado uma *realease* a partir de uma *branch* de **integração**. De fato, se
+No final é criado uma *realease* a partir de uma *branch* de **integração**. De fato, se a *realease* for aceita no teste, é combinada com a *master*.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDc2NDA3MSwxNDY3NTM4NjA0LC0zMj
-YzNTM3MzhdfQ==
+eyJoaXN0b3J5IjpbMTgzNDYxOTc1LDE0Njc1Mzg2MDQsLTMyNj
+M1MzczOF19
 -->
