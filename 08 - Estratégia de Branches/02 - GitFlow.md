@@ -6,9 +6,9 @@ Umas da primeiras organizações, é o uso de **nomenclaturas** para as *branche
  - **Branch Master** - Quando vemos essa *branch* temos que saber que ela é a mais **estável**. Desse modo, podemos concluir que é essa a de **produção**.
  - **Branch Develop** - É a junção das *features* finalizadas, ou seja, que estão preparadas para o próximo *deploy.
  - **Branch Feature/\*** - São *branches* criados a partir da *branch develop*, pois a partir dela pode haver dependência de outros recursos para finalizar a *feature*. Por **convenção**, o nome da *branch* tem essa predominancia: `Branch feature/<nome-do-que-vai-ser-criado>`
- - **Branch Hotfix/\*** - São *branches* para **correção** das *master*. Assim, após a alteração, ela é juntada com a *master* e também com a *develop*, que no caso serve para os futuros *deploys*. Existe sua **convenção** aqui também: `hotfix/<x.y.z>`. Nesse
+ - **Branch Hotfix/\*** - São *branches* para **correção** das *master*. Assim, após a alteração, ela é juntada com a *master* e também com a *develop*, que no caso serve para os futuros *deploys*. Existe sua **convenção** aqui também: `hotfix/<x.y.z>`. Nesse caso é usado um padrão de **versionamento semântico**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE4MjIyMDczLDc1MzgwNjg0MiwtMzQwMz
+eyJoaXN0b3J5IjpbODQ5MTY4MDIyLDc1MzgwNjg0MiwtMzQwMz
 k0NzM4XX0=
 -->
