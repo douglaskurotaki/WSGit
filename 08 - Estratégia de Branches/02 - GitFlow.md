@@ -4,8 +4,8 @@
 Umas da primeiras organizações, é o uso de **nomenclaturas** para as *branches*. Desse modo, pela convenção de nomes gerados por esse método é possível ver qual a funcionalidade de cada *branch*.
 
  - **Branch Master** - Quando vemos essa *branch* temos que saber que ela é a mais **estável**. Desse modo, podemos concluir que é essa a de **produção**.
- - **Branch Develop** - É a
+ - **Branch Develop** - É a junção das *features* finalizadas, ou seja, que estão preparadas para o próximo *deploy*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzkwODUwNCwtMzQwMzk0NzM4XX0=
+eyJoaXN0b3J5IjpbLTI3NTkxMTkyLC0zNDAzOTQ3MzhdfQ==
 -->
