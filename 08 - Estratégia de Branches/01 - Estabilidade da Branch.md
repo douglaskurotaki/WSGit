@@ -7,9 +7,10 @@ Antes de mais nada, precisamos possuir um código de qualidade e testado para se
 ## Integration Pipelines
 **Estável** e **Atualizado**.
 Todas as *branches* são criadas a partir da *master*. 
-Cada desenvolvedor trabalha
+Cada desenvolvedor trabalha **paralelamente** com sua *branch*.
+No final é criado uma *realease* a partir de uma *branch* de **integração**. De fato, se
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjY4ODY2MSwxNDY3NTM4NjA0LC0zMj
+eyJoaXN0b3J5IjpbLTMyNDc2NDA3MSwxNDY3NTM4NjA0LC0zMj
 YzNTM3MzhdfQ==
 -->
