@@ -74,9 +74,14 @@ Para dar o **push** tem com o **rebase -i** tem que usar o **--force**
 No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual só seria solucionado manualmente. A pessoa que é responsável deverá escolher qual o correto e commitar. 
 Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
 
+---
+
+# Links
+
 [git rebase -i](http://www.raphaelfabeni.com.br/git-alterando-commits-parte-1/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Nzc4OTMzNiwtNzMxNTY5NDU1LDk2Mz
-Y2NDE2NSwtMTE0ODUxMjgwOCw4ODg5ODM0MDIsLTEwNDQxODIy
-OTMsMzc2NzU3MjAwLDE5NzI5NzU5MTEsMTY1NTUwOTE3MV19
+eyJoaXN0b3J5IjpbLTIwOTM2NzQxNjksMTM2Nzc4OTMzNiwtNz
+MxNTY5NDU1LDk2MzY2NDE2NSwtMTE0ODUxMjgwOCw4ODg5ODM0
+MDIsLTEwNDQxODIyOTMsMzc2NzU3MjAwLDE5NzI5NzU5MTEsMT
+Y1NTUwOTE3MV19
 -->
