@@ -5,9 +5,11 @@ Antes de mais nada, precisamos possuir um código de qualidade e testado para se
 **Branch Master** Sempre estável. As *branches temporárias* são muito utilizadas a fim de sempre deixar a principal sem erro algum. Nesse método, não utiliza *merges hell*, ou seja, merges que danificam a árvore das alterações dos códigos. Ela, de fato, é baseado num **tronco**. Esse tronco tem que ser resistente e parrudo! No entanto deve ser utilizado somente  para times bem pequenos ou projetos de duração curta. 
 
 ## Integration Pipelines
-**Estável** e **Atualizado**. 
+**Estável** e **Atualizado**.
+Todas as *branches* são criadas a partir da *master*. 
+Cada desenvolvedor trabalha
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTE2MDc1NCwxNDY3NTM4NjA0LC0zMj
+eyJoaXN0b3J5IjpbMTY1MjY4ODY2MSwxNDY3NTM4NjA0LC0zMj
 YzNTM3MzhdfQ==
 -->
