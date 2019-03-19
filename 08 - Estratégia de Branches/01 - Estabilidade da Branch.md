@@ -15,11 +15,8 @@ No final é criado uma *realease* a partir de uma *branch* de **integração**. 
 Essa é usada apenas para caso o integrante seja único.
 ![Lone Wolf](https://d2v0x26thbzlwf.cloudfront.net/prod/190/img/rId20wtyy91xi.1a6.png)
 
-## GitHub Flow
-
-Uso de branches **temporárias** afim de combina-las.
-Para dar os *merges*, no próprio *GitHub* podemos das o **Pull Request**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAxOTczMjUsMTE3MzEzMTIzNywxOD
-M0NjE5NzUsMTQ2NzUzODYwNCwtMzI2MzUzNzM4XX0=
+eyJoaXN0b3J5IjpbNjI0OTM5Nzc4LC0xMzMwMTk3MzI1LDExNz
+MxMzEyMzcsMTgzNDYxOTc1LDE0Njc1Mzg2MDQsLTMyNjM1Mzcz
+OF19
 -->
