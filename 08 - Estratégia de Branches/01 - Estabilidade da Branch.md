@@ -10,8 +10,10 @@ Todas as *branches* são criadas a partir da *master*.
 Cada desenvolvedor trabalha **paralelamente** com sua *branch*.
 No final é criado uma *realease* a partir de uma *branch* de **integração**. De fato, se a *realease* for aceita no teste, é combinada com a *master*.
 
-## S
+## Single Branch
+**Uso de apenas uma branch**.
+Essa é usada apenas para caso o integrante seja único.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA3Njc3MjYsMTgzNDYxOTc1LDE0Nj
-c1Mzg2MDQsLTMyNjM1MzczOF19
+eyJoaXN0b3J5IjpbMTE3MzEzMTIzNywxODM0NjE5NzUsMTQ2Nz
+UzODYwNCwtMzI2MzUzNzM4XX0=
 -->
