@@ -13,8 +13,12 @@ No final é criado uma *realease* a partir de uma *branch* de **integração**. 
 ## Single Branch
 **Uso de apenas uma branch**.
 Essa é usada apenas para caso o integrante seja único.
+![Lone Wolf](https://d2v0x26thbzlwf.cloudfront.net/prod/190/img/rId20wtyy91xi.1a6.png)
 
+## GitHub Flow
+
+**Uso de Branches temporárias** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY5NDM4MSwxMTczMTMxMjM3LDE4Mz
+eyJoaXN0b3J5IjpbMjA3NjUyODA1MiwxMTczMTMxMjM3LDE4Mz
 Q2MTk3NSwxNDY3NTM4NjA0LC0zMjYzNTM3MzhdfQ==
 -->
