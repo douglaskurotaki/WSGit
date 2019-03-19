@@ -13,7 +13,8 @@ No final é criado uma *realease* a partir de uma *branch* de **integração**. 
 ## Single Branch
 **Uso de apenas uma branch**.
 Essa é usada apenas para caso o integrante seja único.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzEzMTIzNywxODM0NjE5NzUsMTQ2Nz
-UzODYwNCwtMzI2MzUzNzM4XX0=
+eyJoaXN0b3J5IjpbLTE2MzY5NDM4MSwxMTczMTMxMjM3LDE4Mz
+Q2MTk3NSwxNDY3NTM4NjA0LC0zMjYzNTM3MzhdfQ==
 -->
