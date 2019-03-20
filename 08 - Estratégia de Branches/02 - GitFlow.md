@@ -65,7 +65,9 @@ Nessa *branch*, como é uma intermediação de **confiança**, as correções en
 
 <br>
 
-
+Nessa etapa, iremos juntar a *release 0.1.0* com a *master* e também com a *develop*.
+```bash
+git flow release finish 0.10
 
 
 
@@ -77,7 +79,7 @@ Nessa *branch*, como é uma intermediação de **confiança**, as correções en
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzQwOTYxMCwtMTA4ODAyODEzNyw3Mj
-kzODkwMTIsMTQxODUyODQ1OCwxNTMxMDc2NDg4LDg0OTE2ODAy
-Miw3NTM4MDY4NDIsLTM0MDM5NDczOF19
+eyJoaXN0b3J5IjpbLTEwNDM0OTE5NiwyMDQ3NDA5NjEwLC0xMD
+g4MDI4MTM3LDcyOTM4OTAxMiwxNDE4NTI4NDU4LDE1MzEwNzY0
+ODgsODQ5MTY4MDIyLDc1MzgwNjg0MiwtMzQwMzk0NzM4XX0=
 -->
