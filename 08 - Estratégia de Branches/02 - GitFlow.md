@@ -73,10 +73,13 @@ O **editor de texto** irá abrir **3 vezes!**
 
  - **1ª vez** - Edição do texto do *merge commit* entre *release 0.1.0* e *master*
  - **2ª vez** - Descrição da *tag* 0.1.0 para **facilitar mudanças**
- - **3ª vez** - 
+ - **3ª vez** - Edição do texto do *merge commit* entre *release 0.1.0* e *develop*
+
+Nessas etapa de edição dos *commits*, por convenção
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjE1MTA2NCwyMDQ3NDA5NjEwLC0xMD
+eyJoaXN0b3J5IjpbMTc0MzQ1NTcyMywyMDQ3NDA5NjEwLC0xMD
 g4MDI4MTM3LDcyOTM4OTAxMiwxNDE4NTI4NDU4LDE1MzEwNzY0
 ODgsODQ5MTY4MDIyLDc1MzgwNjg0MiwtMzQwMzk0NzM4XX0=
 -->
