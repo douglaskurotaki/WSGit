@@ -7,9 +7,9 @@ Umas da primeiras organizações, é o uso de **nomenclaturas** para as *branche
  - **Branch Develop** - É a junção das *features* finalizadas, ou seja, que estão preparadas para o próximo *deploy.
  - **Branch Feature/\*** - São *branches* criados a partir da *branch develop*, pois a partir dela pode haver dependência de outros recursos para finalizar a *feature*. Por **convenção**, o nome da *branch* tem essa predominancia: `Branch feature/<nome-do-que-vai-ser-criado>`
  - **Branch Hotfix/\*** - São *branches* para **correção** das *master*. Assim, após a alteração, ela é juntada com a *master* e também com a *develop*, que no caso serve para os futuros *deploys*. Existe sua **convenção** aqui também: `hotfix/<x.y.z>`. Nesse caso é usado um padrão de **versionamento semântico**.
- - **Branch Release/\*** - É uma *branch* de confiança que faz a ligação da *develop* com a *master*. Assim, caso tenha ocorrido algum *bug* em algum *commit*, ainda há chance de fazer uma correção com mais facilidade. 
+ - **Branch Release/\*** - É uma *branch* de confiança que faz a ligação da *develop* com a *master*. Assim, caso tenha ocorrido algum *bug* em algum *commit*, ainda há chance de fazer uma correção com mais facilidade. Essa *branch* tem a mesma **convenção** da *hotfix*, utilizando-se o versionamento semantico. `release/x.y.z`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA2MTc5NjYsMTUzMTA3NjQ4OCw4ND
-kxNjgwMjIsNzUzODA2ODQyLC0zNDAzOTQ3MzhdfQ==
+eyJoaXN0b3J5IjpbMTQxODUyODQ1OCwxNTMxMDc2NDg4LDg0OT
+E2ODAyMiw3NTM4MDY4NDIsLTM0MDM5NDczOF19
 -->
