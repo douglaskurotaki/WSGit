@@ -76,11 +76,11 @@ Nesse caso, é de extrema importância saber se é realmente requerido fazer o c
 
 Se tentarmos fazer uma *merge* de um arquivo que está conflitado `git merge <branch>`, podemos fazer escolhas automáticas também. Um deles é puxando alterações do **nosso lado**:
 ```bash
-git checkout --our file.txt
+git checkout --theirs file.txt
 ```
 ou então, manter as alterações remotas:
 ```bash
-git checkout --theirs file.txt
+git checkout --our file.txt
 ```
 Se no caso queiramos abortar o *merge* 
 ```bash
@@ -93,8 +93,8 @@ git merge -abort
 
 [git rebase -i](http://www.raphaelfabeni.com.br/git-alterando-commits-parte-1/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzkzNzE5MiwtMjA5MzY3NDE2OSwxMz
-Y3Nzg5MzM2LC03MzE1Njk0NTUsOTYzNjY0MTY1LC0xMTQ4NTEy
-ODA4LDg4ODk4MzQwMiwtMTA0NDE4MjI5MywzNzY3NTcyMDAsMT
-k3Mjk3NTkxMSwxNjU1NTA5MTcxXX0=
+eyJoaXN0b3J5IjpbMTc2OTYwNTEwOCwyMDE3OTM3MTkyLC0yMD
+kzNjc0MTY5LDEzNjc3ODkzMzYsLTczMTU2OTQ1NSw5NjM2NjQx
+NjUsLTExNDg1MTI4MDgsODg4OTgzNDAyLC0xMDQ0MTgyMjkzLD
+M3Njc1NzIwMCwxOTcyOTc1OTExLDE2NTU1MDkxNzFdfQ==
 -->
