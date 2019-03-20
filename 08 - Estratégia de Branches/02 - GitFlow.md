@@ -61,10 +61,11 @@ Depois de terminar a *feature*, temos que criar uma *release branch* para, assim
 git flow release start 0.1.0
 # Não esquecendo que esse é o número de versionamento semântico
 ```
+Nessa *branch*, como é uma intermediação de **confiança**, as correções encontradas podem estar sendo realizadas aqui, ou então alguma alteração que tenha esquecido se inserir.
 
 <br>
 
-Para vermos o funcionamento da *bug branch*
+
 
 
 
@@ -76,7 +77,7 @@ Para vermos o funcionamento da *bug branch*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTkwMjk3NywtMTA4ODAyODEzNyw3Mj
+eyJoaXN0b3J5IjpbMjA0NzQwOTYxMCwtMTA4ODAyODEzNyw3Mj
 kzODkwMTIsMTQxODUyODQ1OCwxNTMxMDc2NDg4LDg0OTE2ODAy
 Miw3NTM4MDY4NDIsLTM0MDM5NDczOF19
 -->
