@@ -64,7 +64,7 @@ git flow release start 0.1.0
 
 <br>
 
-Para vermos o funcionamento do 
+Para vermos o funcionamento da *bug branch*
 
 
 
@@ -76,7 +76,7 @@ Para vermos o funcionamento do
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDA1OTc3NywtMTA4ODAyODEzNyw3Mj
+eyJoaXN0b3J5IjpbLTg2MTkwMjk3NywtMTA4ODAyODEzNyw3Mj
 kzODkwMTIsMTQxODUyODQ1OCwxNTMxMDc2NDg4LDg0OTE2ODAy
 Miw3NTM4MDY4NDIsLTM0MDM5NDczOF19
 -->
