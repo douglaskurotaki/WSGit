@@ -84,12 +84,16 @@ Nesse momento, suponhamos que encontramos um **bug** no sistema. Para isso devem
 git flow hotfix start 0.1.1
 ```
 Aqui iremos tratar a *release 0.1.0*
-
+Então, no caso, iremos **alterar**  o arquivo e *commitar*.
+Após isso, vamos **finalizar** juntando as duas *branches*
+```bash
+git flow h
+```
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTk0MzcwMywxMTEyNTE0MzQ1LDIwND
-c0MDk2MTAsLTEwODgwMjgxMzcsNzI5Mzg5MDEyLDE0MTg1Mjg0
-NTgsMTUzMTA3NjQ4OCw4NDkxNjgwMjIsNzUzODA2ODQyLC0zND
-AzOTQ3MzhdfQ==
+eyJoaXN0b3J5IjpbNTkwMzQ2NTk5LDIxMjU5NDM3MDMsMTExMj
+UxNDM0NSwyMDQ3NDA5NjEwLC0xMDg4MDI4MTM3LDcyOTM4OTAx
+MiwxNDE4NTI4NDU4LDE1MzEwNzY0ODgsODQ5MTY4MDIyLDc1Mz
+gwNjg0MiwtMzQwMzk0NzM4XX0=
 -->
