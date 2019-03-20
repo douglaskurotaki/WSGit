@@ -74,7 +74,15 @@ Para dar o **push** tem com o **rebase -i** tem que usar o **--force**
 No caso, se alterarmos um arquivo igual, iria ocorrer um conflito que na qual só seria solucionado manualmente. A pessoa que é responsável deverá escolher qual o correto e commitar. 
 Nesse caso, é de extrema importância saber se é realmente requerido fazer o comando **git pull**, pois se um integrante estiver alterando o mesmo código, com certeza irá dar conflito.
 
-Se tentarmos fazer uma *merge* de um arquivo que está conflitado `git merge <branch>`, podemos fazer escolhas automáticas também. Um deles é pu
+Se tentarmos fazer uma *merge* de um arquivo que está conflitado `git merge <branch>`, podemos fazer escolhas automáticas também. Um deles é puxando alterações do **nosso lado**:
+```bash
+git checkout --our file.txt
+```
+ou então, manter as alterações remotas:
+```bash
+git checkout --theirs file.txt
+```
+Se no caso queiramos abortar o *merge* 
 
 ---
 
@@ -82,7 +90,7 @@ Se tentarmos fazer uma *merge* de um arquivo que está conflitado `git merge <br
 
 [git rebase -i](http://www.raphaelfabeni.com.br/git-alterando-commits-parte-1/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjAyODUzNjMsLTIwOTM2NzQxNjksMT
+eyJoaXN0b3J5IjpbLTE0NDA0NDg4MjUsLTIwOTM2NzQxNjksMT
 M2Nzc4OTMzNiwtNzMxNTY5NDU1LDk2MzY2NDE2NSwtMTE0ODUx
 MjgwOCw4ODg5ODM0MDIsLTEwNDQxODIyOTMsMzc2NzU3MjAwLD
 E5NzI5NzU5MTEsMTY1NTUwOTE3MV19
