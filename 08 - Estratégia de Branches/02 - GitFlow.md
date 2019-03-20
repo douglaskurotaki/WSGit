@@ -47,7 +47,7 @@ Após isso, o *git* automaticamente irá dar *checkout* para essa nova *branch*
 
 <br>
 
-
+Agora, nós precisaremos de uma arquivo para juntar com a *branch develop*
 
 
 
@@ -55,7 +55,7 @@ Após isso, o *git* automaticamente irá dar *checkout* para essa nova *branch*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTk5MjM0MCwtMTA4ODAyODEzNyw3Mj
-kzODkwMTIsMTQxODUyODQ1OCwxNTMxMDc2NDg4LDg0OTE2ODAy
-Miw3NTM4MDY4NDIsLTM0MDM5NDczOF19
+eyJoaXN0b3J5IjpbLTE0NTAzMjgzNDcsLTEwODgwMjgxMzcsNz
+I5Mzg5MDEyLDE0MTg1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgw
+MjIsNzUzODA2ODQyLC0zNDAzOTQ3MzhdfQ==
 -->
