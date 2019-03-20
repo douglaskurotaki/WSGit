@@ -43,6 +43,11 @@ Para criar um *branch* **feature**:
 # Exmplo:
 git flow feature start recurso-milionario
 ```
+Após isso, o *git* automaticamente irá dar *checkout* para essa nova *branch*
+
+<br>
+
+
 
 
 
@@ -50,7 +55,7 @@ git flow feature start recurso-milionario
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODQ5NTMzMiwtMTA4ODAyODEzNyw3Mj
+eyJoaXN0b3J5IjpbLTQ4OTk5MjM0MCwtMTA4ODAyODEzNyw3Mj
 kzODkwMTIsMTQxODUyODQ1OCwxNTMxMDc2NDg4LDg0OTE2ODAy
 Miw3NTM4MDY4NDIsLTM0MDM5NDczOF19
 -->
