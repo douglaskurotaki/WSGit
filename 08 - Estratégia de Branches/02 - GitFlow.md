@@ -13,9 +13,13 @@ Umas da primeiras organizações, é o uso de **nomenclaturas** para as *branche
  Esses **git tags** são **atalhos** para acessar o *commit* realizado de acordo com a sua *hash*. No entanto, o diferencial está no *flow* conseguir alterar essa *hash* por um nome mais **amigável**.
 
 # Tutorial!
-P
+
+Primeiramente, devemos **instalar** o *git flow*:
+```bash
+$ apt-get install git-flow
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NzQ0NDMyLDcyOTM4OTAxMiwxNDE4NT
-I4NDU4LDE1MzEwNzY0ODgsODQ5MTY4MDIyLDc1MzgwNjg0Miwt
-MzQwMzk0NzM4XX0=
+eyJoaXN0b3J5IjpbLTE5NDg4ODUwNzYsNzI5Mzg5MDEyLDE0MT
+g1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgwMjIsNzUzODA2ODQy
+LC0zNDAzOTQ3MzhdfQ==
 -->
