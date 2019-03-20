@@ -89,11 +89,15 @@ Após isso, vamos **finalizar** juntando as duas *branches*
 ```bash
 git flow hotfix finish 0.1.1
 ```
- 
+E assim, foi alterado com **sucesso!** 
+
+<br>
+
+![GitFlow](https://nvie.com/img/git-model@2x.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjAxNzg2MTAsMjEyNTk0MzcwMywxMT
-EyNTE0MzQ1LDIwNDc0MDk2MTAsLTEwODgwMjgxMzcsNzI5Mzg5
-MDEyLDE0MTg1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgwMjIsNz
-UzODA2ODQyLC0zNDAzOTQ3MzhdfQ==
+eyJoaXN0b3J5IjpbLTUxNzk5OTcwMywtMTIyMDE3ODYxMCwyMT
+I1OTQzNzAzLDExMTI1MTQzNDUsMjA0NzQwOTYxMCwtMTA4ODAy
+ODEzNyw3MjkzODkwMTIsMTQxODUyODQ1OCwxNTMxMDc2NDg4LD
+g0OTE2ODAyMiw3NTM4MDY4NDIsLTM0MDM5NDczOF19
 -->
