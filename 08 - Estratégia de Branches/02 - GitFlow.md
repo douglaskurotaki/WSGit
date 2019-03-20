@@ -71,10 +71,12 @@ git flow release finish 0.1.0
 ```
 O **editor de texto** irá abrir **3 vezes!**
 
- - **1ª vez** - Edição do *merge* 
+ - **1ª vez** - Edição do texto do *merge commit* entre *release 0.1.0* e *master*
+ - **2ª vez** - Descrição da *tag* 0.1.0 para **facilitar mudanças**
+ - **3ª vez** - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzA4MjYzMiwyMDQ3NDA5NjEwLC0xMD
+eyJoaXN0b3J5IjpbLTEwNjE1MTA2NCwyMDQ3NDA5NjEwLC0xMD
 g4MDI4MTM3LDcyOTM4OTAxMiwxNDE4NTI4NDU4LDE1MzEwNzY0
 ODgsODQ5MTY4MDIyLDc1MzgwNjg0MiwtMzQwMzk0NzM4XX0=
 -->
