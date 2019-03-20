@@ -87,13 +87,13 @@ Aqui iremos tratar a *release 0.1.0*
 Então, no caso, iremos **alterar**  o arquivo e *commitar*.
 Após isso, vamos **finalizar** juntando as duas *branches*
 ```bash
-git flow h
+git flow hotfix finish 0.1.1
 ```
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwMzQ2NTk5LDIxMjU5NDM3MDMsMTExMj
-UxNDM0NSwyMDQ3NDA5NjEwLC0xMDg4MDI4MTM3LDcyOTM4OTAx
-MiwxNDE4NTI4NDU4LDE1MzEwNzY0ODgsODQ5MTY4MDIyLDc1Mz
-gwNjg0MiwtMzQwMzk0NzM4XX0=
+eyJoaXN0b3J5IjpbLTEyMjAxNzg2MTAsMjEyNTk0MzcwMywxMT
+EyNTE0MzQ1LDIwNDc0MDk2MTAsLTEwODgwMjgxMzcsNzI5Mzg5
+MDEyLDE0MTg1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgwMjIsNz
+UzODA2ODQyLC0zNDAzOTQ3MzhdfQ==
 -->
