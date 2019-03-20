@@ -47,11 +47,15 @@ Após isso, o *git* automaticamente irá dar *checkout* para essa nova *branch*
 
 <br>
 
-Agora, nós precisaremos de uma arquivo para juntar com a *branch develop*.
+Agora, nós precisaremos de uma arquivo para **juntar** com a *branch develop*.
 Depois de criar o arquivo, vamos juntar:
 ```bash
 git flow feature finish <recurso-milionario>
 ```
+
+<br>
+
+
 
 
 
@@ -60,7 +64,7 @@ git flow feature finish <recurso-milionario>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDg4OTE3MSwtMTA4ODAyODEzNyw3Mj
-kzODkwMTIsMTQxODUyODQ1OCwxNTMxMDc2NDg4LDg0OTE2ODAy
-Miw3NTM4MDY4NDIsLTM0MDM5NDczOF19
+eyJoaXN0b3J5IjpbLTE3MDk1NTM5MzMsLTEwODgwMjgxMzcsNz
+I5Mzg5MDEyLDE0MTg1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgw
+MjIsNzUzODA2ODQyLC0zNDAzOTQ3MzhdfQ==
 -->
