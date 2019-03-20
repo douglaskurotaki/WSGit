@@ -9,10 +9,11 @@ Umas da primeiras organizações, é o uso de **nomenclaturas** para as *branche
  - **Branch Hotfix/\*** - São *branches* para **correção** das *master*. Assim, após a alteração, ela é juntada com a *master* e também com a *develop*, que no caso serve para os futuros *deploys*. Existe sua **convenção** aqui também: `hotfix/<x.y.z>`. Nesse caso é usado um padrão de **versionamento semântico**.
  - **Branch Release/\*** - É uma *branch* de confiança que faz a ligação da *develop* com a *master*. Assim, caso tenha ocorrido algum *bug* em algum *commit*, ainda há chance de fazer uma correção com mais facilidade. Essa *branch* tem a mesma **convenção** da *hotfix*, utilizando-se o versionamento semantico. `release/x.y.z`.
  
- ### Ao mer
+ ### Ação do merge das branches release e hotfix gera um git tags!
+ Esses **git tags** são **strong text**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE2MDA1MzksMTQxODUyODQ1OCwxNT
-MxMDc2NDg4LDg0OTE2ODAyMiw3NTM4MDY4NDIsLTM0MDM5NDcz
-OF19
+eyJoaXN0b3J5IjpbMTE5NTI2NzQ3MCwxNDE4NTI4NDU4LDE1Mz
+EwNzY0ODgsODQ5MTY4MDIyLDc1MzgwNjg0MiwtMzQwMzk0NzM4
+XX0=
 -->
