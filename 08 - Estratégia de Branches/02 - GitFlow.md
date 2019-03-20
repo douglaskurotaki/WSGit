@@ -32,10 +32,15 @@ git flow
  ```bash
  git flow init
  ```
+ Assim, o *git* irá fazer algumas perguntas para trocar o nome das *branches*, porém é recomendável **manter** as que já vem por padrão.
  
+<br>
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTYyMDg3NSw3MjkzODkwMTIsMTQxOD
-UyODQ1OCwxNTMxMDc2NDg4LDg0OTE2ODAyMiw3NTM4MDY4NDIs
-LTM0MDM5NDczOF19
+eyJoaXN0b3J5IjpbLTEwODgwMjgxMzcsNzI5Mzg5MDEyLDE0MT
+g1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgwMjIsNzUzODA2ODQy
+LC0zNDAzOTQ3MzhdfQ==
 -->
