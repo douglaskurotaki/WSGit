@@ -80,10 +80,16 @@ Nessas etapa de edição dos *commits*, por convenção, é editar somente quand
 <br>
 
 Nesse momento, suponhamos que encontramos um **bug** no sistema. Para isso devemos criar uma *hotfix branch*
+```bash
+git flow hotfix start 0.1.1
+```
+Aqui iremos tratar a *release 0.1.0*
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjUxNDM0NSwyMDQ3NDA5NjEwLC0xMD
-g4MDI4MTM3LDcyOTM4OTAxMiwxNDE4NTI4NDU4LDE1MzEwNzY0
-ODgsODQ5MTY4MDIyLDc1MzgwNjg0MiwtMzQwMzk0NzM4XX0=
+eyJoaXN0b3J5IjpbMjEyNTk0MzcwMywxMTEyNTE0MzQ1LDIwND
+c0MDk2MTAsLTEwODgwMjgxMzcsNzI5Mzg5MDEyLDE0MTg1Mjg0
+NTgsMTUzMTA3NjQ4OCw4NDkxNjgwMjIsNzUzODA2ODQyLC0zND
+AzOTQ3MzhdfQ==
 -->
