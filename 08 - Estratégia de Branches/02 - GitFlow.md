@@ -79,11 +79,11 @@ Nessas etapa de edição dos *commits*, por convenção, é editar somente quand
 
 <br>
 
-Nesse momento, suponhamos 
+Nesse momento, suponhamos que encontramos um **bug** no sistema. Para isso devemos criar uma *hotfix branch*
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzU5MTQ2MSwyMDQ3NDA5NjEwLC0xMD
+eyJoaXN0b3J5IjpbMTExMjUxNDM0NSwyMDQ3NDA5NjEwLC0xMD
 g4MDI4MTM3LDcyOTM4OTAxMiwxNDE4NTI4NDU4LDE1MzEwNzY0
 ODgsODQ5MTY4MDIyLDc1MzgwNjg0MiwtMzQwMzk0NzM4XX0=
 -->
