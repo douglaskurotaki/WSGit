@@ -62,6 +62,10 @@ git flow release start 0.1.0
 # Não esquecendo que esse é o número de versionamento semântico
 ```
 
+<br>
+
+Para vermos o funcionamento do 
+
 
 
 
@@ -72,7 +76,7 @@ git flow release start 0.1.0
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkzNzEwNzEsLTEwODgwMjgxMzcsNz
-I5Mzg5MDEyLDE0MTg1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgw
-MjIsNzUzODA2ODQyLC0zNDAzOTQ3MzhdfQ==
+eyJoaXN0b3J5IjpbLTYzMDA1OTc3NywtMTA4ODAyODEzNyw3Mj
+kzODkwMTIsMTQxODUyODQ1OCwxNTMxMDc2NDg4LDg0OTE2ODAy
+Miw3NTM4MDY4NDIsLTM0MDM5NDczOF19
 -->
