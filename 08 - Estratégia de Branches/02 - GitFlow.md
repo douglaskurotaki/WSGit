@@ -37,12 +37,17 @@ git flow
  
 <br>
 
-
+Para criar um *branch* **feature**:
+```bash
+# git flow feature <nome-branch-feature>
+# Exmplo:
+git flow feature recurso-milionario
+```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjY1NzEzNTIsLTEwODgwMjgxMzcsNz
-I5Mzg5MDEyLDE0MTg1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgw
-MjIsNzUzODA2ODQyLC0zNDAzOTQ3MzhdfQ==
+eyJoaXN0b3J5IjpbLTkyNzU4MTQsLTEwODgwMjgxMzcsNzI5Mz
+g5MDEyLDE0MTg1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgwMjIs
+NzUzODA2ODQyLC0zNDAzOTQ3MzhdfQ==
 -->
