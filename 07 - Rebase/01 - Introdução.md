@@ -83,6 +83,9 @@ ou então, manter as alterações remotas:
 git checkout --theirs file.txt
 ```
 Se no caso queiramos abortar o *merge* 
+```bash
+git merge -abort
+```
 
 ---
 
@@ -90,8 +93,8 @@ Se no caso queiramos abortar o *merge*
 
 [git rebase -i](http://www.raphaelfabeni.com.br/git-alterando-commits-parte-1/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDA0NDg4MjUsLTIwOTM2NzQxNjksMT
-M2Nzc4OTMzNiwtNzMxNTY5NDU1LDk2MzY2NDE2NSwtMTE0ODUx
-MjgwOCw4ODg5ODM0MDIsLTEwNDQxODIyOTMsMzc2NzU3MjAwLD
-E5NzI5NzU5MTEsMTY1NTUwOTE3MV19
+eyJoaXN0b3J5IjpbMjAxNzkzNzE5MiwtMjA5MzY3NDE2OSwxMz
+Y3Nzg5MzM2LC03MzE1Njk0NTUsOTYzNjY0MTY1LC0xMTQ4NTEy
+ODA4LDg4ODk4MzQwMiwtMTA0NDE4MjI5MywzNzY3NTcyMDAsMT
+k3Mjk3NTkxMSwxNjU1NTA5MTcxXX0=
 -->
