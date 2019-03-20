@@ -56,7 +56,9 @@ Assim, a *branch* **recurso-milionario** foi integrada a *develop* e deu o *chec
 
 <br>
 
-Depois de terminar a ****
+Depois de terminar a *feature*, temos que criar uma *release branch* para, assim, poder colocar em **produção**. 
+```bash
+``
 
 
 
@@ -66,7 +68,7 @@ Depois de terminar a ****
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzA3MTI3ODQsLTEwODgwMjgxMzcsNz
+eyJoaXN0b3J5IjpbLTE5NTU1ODg1MTMsLTEwODgwMjgxMzcsNz
 I5Mzg5MDEyLDE0MTg1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgw
 MjIsNzUzODA2ODQyLC0zNDAzOTQ3MzhdfQ==
 -->
