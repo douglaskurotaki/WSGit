@@ -58,7 +58,11 @@ Assim, a *branch* **recurso-milionario** foi integrada a *develop* e deu o *chec
 
 Depois de terminar a *feature*, temos que criar uma *release branch* para, assim, poder colocar em **produção**. 
 ```bash
-``
+git flow release start 0.1.0
+# Não esquecendo que esse é o número de versionamento semântico
+```
+
+
 
 
 
@@ -68,7 +72,7 @@ Depois de terminar a *feature*, temos que criar uma *release branch* para, assim
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU1ODg1MTMsLTEwODgwMjgxMzcsNz
+eyJoaXN0b3J5IjpbLTEwNTkzNzEwNzEsLTEwODgwMjgxMzcsNz
 I5Mzg5MDEyLDE0MTg1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgw
 MjIsNzUzODA2ODQyLC0zNDAzOTQ3MzhdfQ==
 -->
