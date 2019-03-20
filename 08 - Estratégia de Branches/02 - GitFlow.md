@@ -23,10 +23,15 @@ Para verificar se foi instalado:
 ```bash
 git flow
 ```
-
+ 
+ Após criar o **repositório**, temos que dar a inicialização do *git flow*:
+ ```bash
+ git flow init
+ ```
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjc5NzgyNSw3MjkzODkwMTIsMTQxOD
+eyJoaXN0b3J5IjpbLTQ5OTQ5MjYyNyw3MjkzODkwMTIsMTQxOD
 UyODQ1OCwxNTMxMDc2NDg4LDg0OTE2ODAyMiw3NTM4MDY4NDIs
 LTM0MDM5NDczOF19
 -->
