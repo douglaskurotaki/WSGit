@@ -19,10 +19,14 @@ Primeiramente, devemos **instalar** o *git flow*:
 $ sudo apt-get install git-flow
 ```
 
+<br>
+
 Para verificar se foi instalado:
 ```bash
 git flow
 ```
+ 
+ <br>
  
  Após criar o **repositório**, temos que dar a inicialização do *git flow*:
  ```bash
@@ -31,7 +35,7 @@ git flow
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTQ5MjYyNyw3MjkzODkwMTIsMTQxOD
+eyJoaXN0b3J5IjpbLTU2NTYyMDg3NSw3MjkzODkwMTIsMTQxOD
 UyODQ1OCwxNTMxMDc2NDg4LDg0OTE2ODAyMiw3NTM4MDY4NDIs
 LTM0MDM5NDczOF19
 -->
