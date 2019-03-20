@@ -33,14 +33,16 @@ git flow
  git flow init
  ```
  Assim, o *git* irá fazer algumas perguntas para trocar o nome das *branches*, porém é recomendável **manter** as que já vem por padrão.
+ No final desse processo, o *git* automaticamente irá fazer um *checkout* na *branch develop*.
  
 <br>
 
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODgwMjgxMzcsNzI5Mzg5MDEyLDE0MT
-g1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgwMjIsNzUzODA2ODQy
-LC0zNDAzOTQ3MzhdfQ==
+eyJoaXN0b3J5IjpbLTIwMjY1NzEzNTIsLTEwODgwMjgxMzcsNz
+I5Mzg5MDEyLDE0MTg1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgw
+MjIsNzUzODA2ODQyLC0zNDAzOTQ3MzhdfQ==
 -->
