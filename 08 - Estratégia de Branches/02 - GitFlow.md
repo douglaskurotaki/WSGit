@@ -95,9 +95,14 @@ E assim, foi alterado com **sucesso!**
 
 ![GitFlow](https://nvie.com/img/git-model@2x.png)
 
+--- 
+
+### Links Usados:
+[GitFlow - fjorgemota](https://fjorgemota.com/git-flow-uma-forma-legal-de-organizar-repositorios-git/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzk5OTcwMywtMTIyMDE3ODYxMCwyMT
-I1OTQzNzAzLDExMTI1MTQzNDUsMjA0NzQwOTYxMCwtMTA4ODAy
-ODEzNyw3MjkzODkwMTIsMTQxODUyODQ1OCwxNTMxMDc2NDg4LD
-g0OTE2ODAyMiw3NTM4MDY4NDIsLTM0MDM5NDczOF19
+eyJoaXN0b3J5IjpbLTEwNjc3NzY4MTgsLTUxNzk5OTcwMywtMT
+IyMDE3ODYxMCwyMTI1OTQzNzAzLDExMTI1MTQzNDUsMjA0NzQw
+OTYxMCwtMTA4ODAyODEzNyw3MjkzODkwMTIsMTQxODUyODQ1OC
+wxNTMxMDc2NDg4LDg0OTE2ODAyMiw3NTM4MDY4NDIsLTM0MDM5
+NDczOF19
 -->
