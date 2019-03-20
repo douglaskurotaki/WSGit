@@ -10,10 +10,12 @@ Umas da primeiras organizações, é o uso de **nomenclaturas** para as *branche
  - **Branch Release/\*** - É uma *branch* de confiança que faz a ligação da *develop* com a *master*. Assim, caso tenha ocorrido algum *bug* em algum *commit*, ainda há chance de fazer uma correção com mais facilidade. Essa *branch* tem a mesma **convenção** da *hotfix*, utilizando-se o versionamento semantico. `release/x.y.z`.
  
  ### Ação do merge das branches release e hotfix gera um git tags!
- Esses **git tags** são **atalhos** para acessar o *commit* realizado de acordo com a sua *hash*
+ Esses **git tags** são **atalhos** para acessar o *commit* realizado de acordo com a sua *hash*. No entanto, o diferencial está no *flow* conseguir alterar essa *hash* por um nome mais **amigável**.
+
+# Tutorial!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTkyMDM0NywxNDE4NTI4NDU4LDE1Mz
-EwNzY0ODgsODQ5MTY4MDIyLDc1MzgwNjg0MiwtMzQwMzk0NzM4
-XX0=
+eyJoaXN0b3J5IjpbNzI5Mzg5MDEyLDE0MTg1Mjg0NTgsMTUzMT
+A3NjQ4OCw4NDkxNjgwMjIsNzUzODA2ODQyLC0zNDAzOTQ3Mzhd
+fQ==
 -->
