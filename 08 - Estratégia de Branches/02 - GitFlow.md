@@ -52,9 +52,11 @@ Depois de criar o arquivo, vamos juntar:
 ```bash
 git flow feature finish <recurso-milionario>
 ```
+Assim, a *branch* **recurso-milionario** foi integrada a *develop* e deu o *checkout* para essa mesma. A *branch* **recurso-milionario** é excluído depois desse processo.
 
 <br>
 
+Depois de terminar a ****
 
 
 
@@ -64,7 +66,7 @@ git flow feature finish <recurso-milionario>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk1NTM5MzMsLTEwODgwMjgxMzcsNz
+eyJoaXN0b3J5IjpbLTE3NzA3MTI3ODQsLTEwODgwMjgxMzcsNz
 I5Mzg5MDEyLDE0MTg1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgw
 MjIsNzUzODA2ODQyLC0zNDAzOTQ3MzhdfQ==
 -->
