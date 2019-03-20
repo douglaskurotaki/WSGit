@@ -16,10 +16,17 @@ Umas da primeiras organizações, é o uso de **nomenclaturas** para as *branche
 
 Primeiramente, devemos **instalar** o *git flow*:
 ```bash
-$ apt-get install git-flow
+$ sudo apt-get install git-flow
 ```
+
+Para verificar se foi instalado:
+```bash
+git flow
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg4ODUwNzYsNzI5Mzg5MDEyLDE0MT
-g1Mjg0NTgsMTUzMTA3NjQ4OCw4NDkxNjgwMjIsNzUzODA2ODQy
-LC0zNDAzOTQ3MzhdfQ==
+eyJoaXN0b3J5IjpbMTczMjc5NzgyNSw3MjkzODkwMTIsMTQxOD
+UyODQ1OCwxNTMxMDc2NDg4LDg0OTE2ODAyMiw3NTM4MDY4NDIs
+LTM0MDM5NDczOF19
 -->
