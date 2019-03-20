@@ -65,21 +65,16 @@ Nessa *branch*, como é uma intermediação de **confiança**, as correções en
 
 <br>
 
-Nessa etapa, iremos juntar a *release 0.1.0* com a *master* e também com a *develop*.
+Nessa etapa, iremos **integrar** a *release 0.1.0* com a *master* e também com a *develop*.
 ```bash
-git flow release finish 0.10
+git flow release finish 0.1.0
+```
+O **editor de texto** irá abrir **3 vezes!**
 
-
-
-
-
-
-
-
-
+ - **1ª vez** - Edição do *merge* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM0OTE5NiwyMDQ3NDA5NjEwLC0xMD
+eyJoaXN0b3J5IjpbLTc2MzA4MjYzMiwyMDQ3NDA5NjEwLC0xMD
 g4MDI4MTM3LDcyOTM4OTAxMiwxNDE4NTI4NDU4LDE1MzEwNzY0
 ODgsODQ5MTY4MDIyLDc1MzgwNjg0MiwtMzQwMzk0NzM4XX0=
 -->
