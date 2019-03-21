@@ -8,8 +8,11 @@ As áreas **afetadas** do *git* são:
 
 <br>
 
-O **HEAD** está sempre apontando para o **último** grupo de alterações.
+O **HEAD** está sempre apontando para o **último** grupo de alterações, ou seja, o **snapshot** *commitado*.
+A movimentação do ponteiro pode ser realizada por dois comando: **commit** e **reset**.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTMwNTUzNSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE0NjA2NDAzMDIsLTIwODg3NDY2MTJdfQ
+==
 -->
