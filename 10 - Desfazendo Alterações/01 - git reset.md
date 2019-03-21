@@ -13,9 +13,11 @@ A movimentação do ponteiro pode ser realizada por dois comando: **commit** e *
 
 <br>
 
-Existem 3 **tipos **
+Existem 3 **tipos** de *reset*:
+### reset soft
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjMzMjQ0ODUsLTE0NjA2NDAzMDIsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTExODQ0ODUzOSwtMTQ2MDY0MDMwMiwtMj
+A4ODc0NjYxMl19
 -->
