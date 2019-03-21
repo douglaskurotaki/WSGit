@@ -3,9 +3,13 @@ Esse é um comando utilizado para **voltar** alterações realizadas. Porém, é
 As áreas **afetadas** do *git* são:
 
 - **HEAD** (o ponteiro);
-- **Área de Stage**
-- **Diretório **
+- **Área de Stage**;
+- **Diretório de Working**.
+
+<br>
+
+O **HEAD** está sempre apontando para o **último** grupo de alterações.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDUyOTI1OTUsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbMTA1MTMwNTUzNSwtMjA4ODc0NjYxMl19
 -->
