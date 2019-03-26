@@ -58,12 +58,15 @@ Ou então, recuperar no *working directory*:
 `git checkout -- xpto.txt`
 
 |**Comando**  |  **Escopo**| **Uso** |
-|--|--|--
-|  |  |
+|--|--|--|
+|git reset| Commit | Descartar commits em branches locais ou alterações ainda não envidadas |
+| git reset|Arquivo | Altera o staging do arquivo
+|git checkout|Commit| Troca entre branches ou commits pontuais
+|git checkout||
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzE3Mzk4OCwtMjM3NTU4MjQ3LC0xMT
-g0NDg1MzksLTE0NjA2NDAzMDIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEyOTA0NTA1NjUsLTIzNzU1ODI0NywtMT
+E4NDQ4NTM5LC0xNDYwNjQwMzAyLC0yMDg4NzQ2NjEyXX0=
 -->
