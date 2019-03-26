@@ -35,16 +35,18 @@ git reset --mixed HEAD~<numeroDoCommit>
 
 ### git hard
 O mais **perigoso**, pois reverte o *working directory* para o estado do *commit* que foi especificado. Desse modo, as alterações feitas serão perdidas se voltar a um *commit*.
-```bash
+```git
 git reset --hard HEAD~
 ```
 
 ---
 
-É importante saber que, por boas práticas, nunca se deve utilizar a reversão de *commits*. No caso, precisamos corrigir com um outro *commit*
+É importante saber que, por boas práticas, nunca se deve utilizar a reversão de *commits*. No caso, precisamos corrigir com *commits* posteriores.
+
+**Link:** [Reset](https://medium.com/@andgomes/os-tr%C3%AAs-tipos-de-reset-aa220658d9b2)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk4ODAzNiwtMTE4NDQ4NTM5LC0xND
+eyJoaXN0b3J5IjpbLTYyODc0ODg5NSwtMTE4NDQ4NTM5LC0xND
 YwNjQwMzAyLC0yMDg4NzQ2NjEyXX0=
 -->
