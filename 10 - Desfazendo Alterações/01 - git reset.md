@@ -63,12 +63,11 @@ Ou então, recuperar no *working directory*:
 | git reset|Arquivo | Altera o staging do arquivo
 |git checkout|Commit| Troca entre branches ou commits pontuais
 |git checkout|Arquivo|Descarta alterações no working dir
-|git revert|Commit|  
-Desfazer commits em branches públicas
+|git revert|Commit|Desfazer commits em branches públicas
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk0MTAwOCwtMjM3NTU4MjQ3LC0xMT
+eyJoaXN0b3J5IjpbMTg1MzM4MTI3OCwtMjM3NTU4MjQ3LC0xMT
 g0NDg1MzksLTE0NjA2NDAzMDIsLTIwODg3NDY2MTJdfQ==
 -->
