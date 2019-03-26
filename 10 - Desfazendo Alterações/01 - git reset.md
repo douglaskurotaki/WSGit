@@ -35,7 +35,7 @@ git reset --mixed HEAD~<numeroDoCommit>
 
 ### git hard
 O mais **perigoso**, pois reverte o *working directory* para o estado do *commit* que foi especificado. Desse modo, as alterações feitas serão perdidas se voltar a um *commit*.
-```git
+```bash
 git reset --hard HEAD~
 ```
 
@@ -47,6 +47,6 @@ git reset --hard HEAD~
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODc0ODg5NSwtMTE4NDQ4NTM5LC0xND
+eyJoaXN0b3J5IjpbLTIzNzU1ODI0NywtMTE4NDQ4NTM5LC0xND
 YwNjQwMzAyLC0yMDg4NzQ2NjEyXX0=
 -->
