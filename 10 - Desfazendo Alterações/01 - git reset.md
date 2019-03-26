@@ -26,11 +26,17 @@ git reset --soft HEAD~<númeroDeCommitAntecessor>
 O **mixed** é semelhante ao anterior, porém a única diferença é que serão desfeitas alterações, assim, voltará para o *working directory*. Nesse caso, terá que ser feito o `git add` novamente.
 Esse comando pode ser feito de duas formas:
 ```bash
+# 1ª forma:
+git reset HEAD~<numeroDoCommit>
+
+# 2ª forma:
+git reset --mixed HEAD~<numeroDoCommit>
 ```
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5Mjk4NjMwLC0xMTg0NDg1MzksLTE0Nj
+eyJoaXN0b3J5IjpbNTU0MDgyMTM2LC0xMTg0NDg1MzksLTE0Nj
 A2NDAzMDIsLTIwODg3NDY2MTJdfQ==
 -->
