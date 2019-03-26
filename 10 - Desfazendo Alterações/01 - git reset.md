@@ -19,13 +19,13 @@ Nesse tipo de reset, o **HEAD** apontara para algum *commit* realizado. No caso,
 
 ```bash
 git reset --soft HEAD~<númeroDeCommitAntecessor>
-# ou então podemos usar a has
+# ou então podemos usar a hash
 ```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE3NzgyNjcsLTExODQ0ODUzOSwtMT
+eyJoaXN0b3J5IjpbLTEyNzk2MDEyMDUsLTExODQ0ODUzOSwtMT
 Q2MDY0MDMwMiwtMjA4ODc0NjYxMl19
 -->
