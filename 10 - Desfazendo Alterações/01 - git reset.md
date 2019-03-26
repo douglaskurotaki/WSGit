@@ -49,9 +49,11 @@ git reset --hard HEAD~
 
 # Git Checkout e Reverse
 **git checkout** serve para mover o *HEAD* a *commits* anteriores escondendo as alterações que foram feitas.
+**git reverse** é realizado um *commit* para a reversão diferentemente do *reset*. Usado para repositórios remotos.
 
+Podemos também, ao invés de 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5MzA2OTk3LC0yMzc1NTgyNDcsLTExOD
-Q0ODUzOSwtMTQ2MDY0MDMwMiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjAwNzIwODgxNSwtMjM3NTU4MjQ3LC0xMT
+g0NDg1MzksLTE0NjA2NDAzMDIsLTIwODg3NDY2MTJdfQ==
 -->
