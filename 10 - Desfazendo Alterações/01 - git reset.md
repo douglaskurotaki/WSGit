@@ -22,10 +22,12 @@ git reset --soft HEAD~<númeroDeCommitAntecessor>
 # ou então podemos usar a hash
 ```
 
+### reset mixed
+O **mixed** é semelhante ao anterior, porém a única diferença é que 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk2MDEyMDUsLTExODQ0ODUzOSwtMT
-Q2MDY0MDMwMiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTczMDAzMTY1NSwtMTE4NDQ4NTM5LC0xND
+YwNjQwMzAyLC0yMDg4NzQ2NjEyXX0=
 -->
