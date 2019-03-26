@@ -45,8 +45,10 @@ git reset --hard HEAD~
 
 **Link:** [Reset](https://medium.com/@andgomes/os-tr%C3%AAs-tipos-de-reset-aa220658d9b2)
 
+---
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzU1ODI0NywtMTE4NDQ4NTM5LC0xND
-YwNjQwMzAyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTYzMzQ4NjE4LC0yMzc1NTgyNDcsLTExOD
+Q0ODUzOSwtMTQ2MDY0MDMwMiwtMjA4ODc0NjYxMl19
 -->
