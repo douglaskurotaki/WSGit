@@ -47,8 +47,11 @@ git reset --hard HEAD~
 
 ---
 
+# Git Checkout e Reverse
+**git checkout** serve para mover o *HEAD* a *commits* anteriores escondendo as alterações que foram feitas.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzQ4NjE4LC0yMzc1NTgyNDcsLTExOD
+eyJoaXN0b3J5IjpbODc5MzA2OTk3LC0yMzc1NTgyNDcsLTExOD
 Q0ODUzOSwtMTQ2MDY0MDMwMiwtMjA4ODc0NjYxMl19
 -->
