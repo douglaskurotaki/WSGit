@@ -54,9 +54,16 @@ git reset --hard HEAD~
 Podemos também, ao invés de voltar *commits* por completo, voltar alterações de arquivos específicos.
 `git reset HEAD~2 foo.txt`
 
-Ou
+Ou então, recuperar no *working directory*:
+`git checkout -- xpto.txt`
+
+|**Comando**  |  **Escopo**| **Uso** |
+|--|--|--
+|  |  |
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA5NTk0NDcsLTIzNzU1ODI0NywtMT
-E4NDQ4NTM5LC0xNDYwNjQwMzAyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTY2MzE3Mzk4OCwtMjM3NTU4MjQ3LC0xMT
+g0NDg1MzksLTE0NjA2NDAzMDIsLTIwODg3NDY2MTJdfQ==
 -->
