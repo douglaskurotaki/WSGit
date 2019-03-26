@@ -33,10 +33,11 @@ git reset HEAD~<numeroDoCommit>
 git reset --mixed HEAD~<numeroDoCommit>
 ```
 
-
+### git hard
+O mais **perigoso**, pois reverte o *working directory* para o estado do *commit* que foi especificado.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0MDgyMTM2LC0xMTg0NDg1MzksLTE0Nj
-A2NDAzMDIsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTY2MjI4MzE0NSwtMTE4NDQ4NTM5LC0xND
+YwNjQwMzAyLC0yMDg4NzQ2NjEyXX0=
 -->
