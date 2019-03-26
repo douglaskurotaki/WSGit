@@ -15,16 +15,17 @@ A movimentação do ponteiro pode ser realizada por dois comando: **commit** e *
 
 Existem 3 **tipos** de *reset*:
 ### reset soft
-Nesse tipo de reset, o **HEAD** apontara para o antecessor *commit* realizado. No caso, não terá nenhum arquivo perdido, ele voltará apenas para *staging area*. 
+Nesse tipo de reset, o **HEAD** apontara para algum *commit* realizado. No caso, não terá nenhum arquivo perdido, ele voltará apenas para *staging area*. 
 
 ```bash
-git reset --soft HEAD~
+git reset --soft HEAD~<númeroDeCommitAntecessor>
+# ou então podemos usar a has
 ```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDgyODQyMiwtMTE4NDQ4NTM5LC0xND
-YwNjQwMzAyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTExOTE3NzgyNjcsLTExODQ0ODUzOSwtMT
+Q2MDY0MDMwMiwtMjA4ODc0NjYxMl19
 -->
